@@ -14,6 +14,14 @@ pipeline, watchlists, ratings and notes up to date without leaving the conversat
 - **Skills** that tell Claude when and how to use those tools — which one to reach for,
   what order to call them in, and what a good answer looks like
 
+## Install
+
+In Claude Code 2.1.275 or later:
+
+```
+/plugin install kurrant-ai --marketplace ekohe/kurrant-claude-plugin
+```
+
 ## Use it
 
 Add the plugin, then connect the Kurrant.ai connector from the plugin's **Connectors** tab

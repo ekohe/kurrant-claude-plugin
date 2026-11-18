@@ -1,0 +1,15 @@
+{
+  "name": "kurrant",
+  "description": "Kurrant.ai plugins for Claude.",
+  "owner": {
+    "name": "Ekohe Japan Ltd.",
+    "url": "https://www.kurrant.ai"
+  },
+  "plugins": [
+    {
+      "name": "kurrant-ai",
+      "source": "./",
+      "description": "Company intelligence for venture capital investors. Source startups against your investment thesis, open company profiles with deep research and startup evaluations, and manage your deal pipeline, lists, ratings and notes from a conversation."
+    }
+  ]
+}
