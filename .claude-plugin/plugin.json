@@ -1,14 +1,18 @@
 {
   "name": "kurrant-ai",
   "displayName": "Kurrant.ai",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Company intelligence for venture capital investors. Source startups against your investment thesis, open company profiles with deep research and startup evaluations, and manage your deal pipeline, lists, ratings and notes from a conversation.",
   "author": {
     "name": "Ekohe Japan Ltd.",
     "url": "https://www.kurrant.ai"
   },
   "homepage": "https://www.kurrant.ai",
+  "icon": "./.claude-plugin/icon.png",
+  "documentationUrl": "https://github.com/ekohe/kurrant-claude-plugin#readme",
+  "supportUrl": "https://www.kurrant.ai/en/contact",
   "privacyPolicyUrl": "https://www.kurrant.ai/en/privacy",
+  "termsOfServiceUrl": "https://www.kurrant.ai/en/terms",
   "license": "LicenseRef-Proprietary",
   "keywords": [
     "venture capital",
