@@ -8,6 +8,13 @@ description: Review and update the Kurrant.ai deal pipeline, watchlists, ratings
 The pipeline, lists, ratings and notes all belong to the connected workspace and are shared
 with the team.
 
+## If the Kurrant.ai tools are missing
+
+If `get_pipeline` and the other Kurrant.ai tools are not available, the Kurrant.ai connector
+is not connected. Tell the user to connect it from the Kurrant.ai plugin's **Connectors** tab
+and sign in with their Kurrant.ai account, then stop. Do not search the web, open a browser
+or answer from general knowledge instead.
+
 ## Review
 
 `get_pipeline` returns every card with its current rating, the last team note and the most

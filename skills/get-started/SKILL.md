@@ -8,6 +8,13 @@ description: Introduce Kurrant.ai and get the user to a first useful answer abou
 Kurrant.ai is a company intelligence platform for venture capital investors. Every answer is
 scoped to the workspace of the connected Kurrant.ai account.
 
+## If the Kurrant.ai tools are missing
+
+If `get_current_user` and the other Kurrant.ai tools are not available, the Kurrant.ai
+connector is not connected. Tell the user to connect it from the Kurrant.ai plugin's
+**Connectors** tab and sign in with their Kurrant.ai account, then stop. Do not search the
+web, open a browser or answer from general knowledge instead.
+
 ## First turn
 
 1. Call `get_current_user` and `get_investment_profile` to learn whose workspace this is and

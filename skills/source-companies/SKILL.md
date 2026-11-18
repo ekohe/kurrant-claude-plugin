@@ -8,6 +8,13 @@ description: Find startups that fit the user's investment thesis on Kurrant.ai, 
 Sourcing on Kurrant.ai runs against an **investment profile** — the saved thesis that defines
 sectors, stages and geographies. Search without it and the results are generic.
 
+## If the Kurrant.ai tools are missing
+
+If `get_investment_profile` and the other Kurrant.ai tools are not available, the Kurrant.ai
+connector is not connected. Tell the user to connect it from the Kurrant.ai plugin's
+**Connectors** tab and sign in with their Kurrant.ai account, then stop. Do not search the
+web, open a browser or answer from general knowledge instead.
+
 ## Source
 
 1. Call `get_investment_profile` first. If the user describes a thesis that differs from the
