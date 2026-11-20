@@ -2,7 +2,7 @@
   "mcpServers": {
     "kurrant-ai": {
       "type": "http",
-      "url": "https://app.kurrant.ai/api/mcp/"
+      "url": "https://app.kurrant.ai/api/mcp"
     }
   }
 }
