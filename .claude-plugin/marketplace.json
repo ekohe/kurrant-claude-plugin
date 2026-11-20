@@ -2,7 +2,7 @@
   "name": "kurrant",
   "description": "Kurrant.ai plugins for Claude.",
   "owner": {
-    "name": "Ekohe Japan Ltd.",
+    "name": "Kurrant AI, Inc.",
     "url": "https://www.kurrant.ai"
   },
   "plugins": [
