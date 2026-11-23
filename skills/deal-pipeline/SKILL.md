@@ -49,9 +49,3 @@ slightly different name. Confirm before `remove_from_list`.
 When the user recounts a meeting or a call, offer to write it up as a note and show the text
 before saving it. A note is for the team, so write it as a record, not as a chat reply.
 Confirm before `delete_note`, and remember a user can only delete notes they authored.
-
-## Reporting
-
-`get_quarterly_summary` for one period, `list_reporting_summaries` for what exists,
-`generate_quarterly_reports` and `refresh_quarterly_report` to produce or rebuild one. These
-run in the background — say so and check back rather than waiting.
