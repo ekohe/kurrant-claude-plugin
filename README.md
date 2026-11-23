@@ -30,9 +30,9 @@ and sign in with your Kurrant.ai account. Claude then works inside that account'
 Things to ask for:
 
 - "Find seed-stage fintech startups in Japan that match my investment thesis."
-- "Show me the full Kurrant.ai profile for Stripe, including the deep research report."
+- "Show me the full Kurrant.ai profile for ElevenLabs, including the deep research report."
 - "What is in my pipeline right now?"
-- "Add Stripe to my AI watchlist and rate it a 4."
+- "Add ElevenLabs to my AI watchlist and rate it love."
 
 ## Requirements
 
